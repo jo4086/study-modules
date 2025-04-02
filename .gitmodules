@@ -5,3 +5,7 @@
 [submodule "python"]
 	path = python
 	url = https://github.com/jo4086/python
+
+[submodule "typescript"]
+	path = typescript
+	url = https://github.com/jo4086/study-typescript
